@@ -1,0 +1,19 @@
+.passenger-form {
+    border: 1px solid #dee2e6;
+    border-radius: 8px;
+    padding: 20px;
+    margin-bottom: 20px;
+    background-color: #f8f9fa;
+}
+
+.flight-info {
+    background: linear-gradient(135deg, #0d6efd0d 0%, #0d6efd1a 100%);
+    border-radius: 8px;
+    padding: 20px;
+    margin-bottom: 30px;
+}
+
+.infant-form {
+    background-color: #fff3cd;
+    border: 1px solid #ffeeba;
+}
